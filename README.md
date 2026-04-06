@@ -1,17 +1,11 @@
-<h1 align="center">Hi 👋 welcome to my profile</h1>
-<h3 align="center">A passionate full stack developer specializing in modern frameworks such as React, Next.js, Node.js, and Django for building fast, scalable, and responsive web and mobile applications. </br> Hands-on experience building and deploying voice agents and AI-powered conversational systems in production.</h3>
+<h2 >Hi 👋 I'm William</h2>
+<h3 >
+Full Stack Developer focused on building modern, scalable, and responsive applications with React, Next.js, Node.js, and Django. Experienced in developing voice agents and AI-powered conversational systems for production use.
+</h3>
 
 ---
 
-#### I love being able to use the best of technology to help people's lives.
- 
-* 🧠  I'm always learning more about web development
-* 🤝  I'm open to collaborating on new projects ideas
-* 🎯  Goal: Deliver the best of technology to everyone
-* ⚡   Fun fact: I thrive on collaboration - always ready to help, mentor, or contribute where it counts.
-
-
-#### 🚀 Skills that I love to talk about
+#### Skills that I love to talk about
 
 <p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -75,10 +69,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="35" height="35"/>
   </a>
 </p>
-
-
-#### GitHub Status 😎
-
 
 ![](https://komarev.com/ghpvc/?username=0xstackforge&color=blueviolet)
 
