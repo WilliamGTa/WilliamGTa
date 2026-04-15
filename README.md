@@ -7,10 +7,7 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
 
 #### Skills that I love to talk about
 
-<p
-  align="left"
-  style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;"
->
+<p align="left" style="display:flex; flex-wrap:wrap; gap:12 px; align-items:center;">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-flex;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
   </a>
