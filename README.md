@@ -7,6 +7,7 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
 
 #### Skills that I love to talk about
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" height="28" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" height="28" alt="Next.js">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" height="28" alt="Vue.js">
