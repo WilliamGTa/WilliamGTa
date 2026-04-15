@@ -7,14 +7,14 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
 
 #### Skills that I love to talk about
 
-<p align="left" style="display:flex; flex-direction:row; flex-wrap:wrap; gap:12px; align-items:center;">
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
   </a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="react" width="35" height="35"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
@@ -29,13 +29,12 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
   </a>
- <a href="https://go.dev/" target="_blank" rel="noreferrer" style="display:inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
-</a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="go" width="35" height="35"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
   </a>
-
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="35" height="35"/>
   </a>
@@ -45,7 +44,6 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/>
   </a>
-
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/>
   </a>
@@ -55,7 +53,6 @@ Full Stack Developer focused on building modern, scalable, and responsive applic
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/>
   </a>
-
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="35" height="35"/>
   </a>
